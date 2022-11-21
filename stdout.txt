@@ -1,0 +1,144 @@
+
+> test
+> jest
+
+  console.log
+    Checking for 20 product items...
+
+      at Object.log (__tests__/lab8.test.js:9:13)
+
+  console.log
+    Checking to make sure <product-item> elements are populated...
+
+      at Object.log (__tests__/lab8.test.js:20:13)
+
+  console.log
+    Checking product item 1/20
+
+      at Object.log (__tests__/lab8.test.js:32:15)
+
+  console.log
+    Checking product item 2/20
+
+      at Object.log (__tests__/lab8.test.js:32:15)
+
+  console.log
+    Checking product item 3/20
+
+      at Object.log (__tests__/lab8.test.js:32:15)
+
+  console.log
+    Checking product item 4/20
+
+      at Object.log (__tests__/lab8.test.js:32:15)
+
+  console.log
+    Checking product item 5/20
+
+      at Object.log (__tests__/lab8.test.js:32:15)
+
+  console.log
+    Checking product item 6/20
+
+      at Object.log (__tests__/lab8.test.js:32:15)
+
+  console.log
+    Checking product item 7/20
+
+      at Object.log (__tests__/lab8.test.js:32:15)
+
+  console.log
+    Checking product item 8/20
+
+      at Object.log (__tests__/lab8.test.js:32:15)
+
+  console.log
+    Checking product item 9/20
+
+      at Object.log (__tests__/lab8.test.js:32:15)
+
+  console.log
+    Checking product item 10/20
+
+      at Object.log (__tests__/lab8.test.js:32:15)
+
+  console.log
+    Checking product item 11/20
+
+      at Object.log (__tests__/lab8.test.js:32:15)
+
+  console.log
+    Checking product item 12/20
+
+      at Object.log (__tests__/lab8.test.js:32:15)
+
+  console.log
+    Checking product item 13/20
+
+      at Object.log (__tests__/lab8.test.js:32:15)
+
+  console.log
+    Checking product item 14/20
+
+      at Object.log (__tests__/lab8.test.js:32:15)
+
+  console.log
+    Checking product item 15/20
+
+      at Object.log (__tests__/lab8.test.js:32:15)
+
+  console.log
+    Checking product item 16/20
+
+      at Object.log (__tests__/lab8.test.js:32:15)
+
+  console.log
+    Checking product item 17/20
+
+      at Object.log (__tests__/lab8.test.js:32:15)
+
+  console.log
+    Checking product item 18/20
+
+      at Object.log (__tests__/lab8.test.js:32:15)
+
+  console.log
+    Checking product item 19/20
+
+      at Object.log (__tests__/lab8.test.js:32:15)
+
+  console.log
+    Checking product item 20/20
+
+      at Object.log (__tests__/lab8.test.js:32:15)
+
+  console.log
+    Checking the "Add to Cart" button...
+
+      at Object.log (__tests__/lab8.test.js:50:13)
+
+  console.log
+    Checking number of items in cart on screen...
+
+      at Object.log (__tests__/lab8.test.js:69:13)
+
+  console.log
+    Checking number of items in cart on screen after reload...
+
+      at Object.log (__tests__/lab8.test.js:88:13)
+
+  console.log
+    Checking number of items in cart on screen...
+
+      at Object.log (__tests__/lab8.test.js:123:13)
+
+  console.log
+    Checking number of items in cart on screen after reload...
+
+      at Object.log (__tests__/lab8.test.js:142:13)
+
+  console.log
+    Checking the localStorage...
+
+      at Object.log (__tests__/lab8.test.js:165:13)
+
